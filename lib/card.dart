@@ -32,7 +32,7 @@ class _aaaState extends State<aaa> {
               SizedBox(height: 20,),
               Text('Flutter Devloper',style: TextStyle(color: Colors.white,fontSize: 16, ),),
               Divider(
-                color:  Colors.black,
+                color:  Color.fromARGB(255, 255, 255, 255),
 
               ),
                  Card(
@@ -106,7 +106,7 @@ class _aaaState extends State<aaa> {
                   ),
                 ),
               Divider(
-                color: Colors.black,
+                color: Color.fromARGB(255, 255, 255, 255),
                 
               )
             ],
